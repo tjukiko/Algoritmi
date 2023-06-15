@@ -1,1 +1,1 @@
-# Algoritmi
+# Algoritmi i podatochni strukturi
